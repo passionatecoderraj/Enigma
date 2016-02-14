@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.wcu.cs540.project1;
 
 /**
